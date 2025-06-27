@@ -1,0 +1,64 @@
+C:\Users\omusi\Downloads\KD\casia-b-project\dataset
+
+C:\Users\omusi\Downloads\KD\casia-b-project\dataset\output\001
+C:\Users\omusi\Downloads\KD\casia-b-project\dataset\output\001\bg-01
+C:\Users\omusi\Downloads\KD\casia-b-project\dataset\output\001\bg-01\000\001-bg-01-000-001.png
+C:\Users\omusi\Downloads\KD\casia-b-project\dataset\output\001\bg-01\018\001-bg-01-018-001.png
+C:\Users\omusi\Downloads\KD\casia-b-project\dataset\output\001\bg-01\036
+C:\Users\omusi\Downloads\KD\casia-b-project\dataset\output\001\bg-01\054
+C:\Users\omusi\Downloads\KD\casia-b-project\dataset\output\001\bg-01\072
+C:\Users\omusi\Downloads\KD\casia-b-project\dataset\output\001\bg-01\090
+C:\Users\omusi\Downloads\KD\casia-b-project\dataset\output\001\bg-01\108
+C:\Users\omusi\Downloads\KD\casia-b-project\dataset\output\001\bg-01\126
+C:\Users\omusi\Downloads\KD\casia-b-project\dataset\output\001\bg-01\144
+C:\Users\omusi\Downloads\KD\casia-b-project\dataset\output\001\bg-01\162
+C:\Users\omusi\Downloads\KD\casia-b-project\dataset\output\001\bg-01\180
+
+C:\Users\omusi\Downloads\KD\casia-b-project\dataset\output\001\bg-02
+C:\Users\omusi\Downloads\KD\casia-b-project\dataset\output\001\cl-01
+C:\Users\omusi\Downloads\KD\casia-b-project\dataset\output\001\cl-02
+C:\Users\omusi\Downloads\KD\casia-b-project\dataset\output\001\nm-01
+C:\Users\omusi\Downloads\KD\casia-b-project\dataset\output\001\nm-02
+C:\Users\omusi\Downloads\KD\casia-b-project\dataset\output\001\nm-03
+C:\Users\omusi\Downloads\KD\casia-b-project\dataset\output\001\nm-04
+C:\Users\omusi\Downloads\KD\casia-b-project\dataset\output\001\nm-05
+C:\Users\omusi\Downloads\KD\casia-b-project\dataset\output\001\nm-06
+
+SO BASICALLY MY DATASET (IMAGES) ARE STORED AS ILLUSTRATED ABOVE
+dataset
+  output
+     001
+       bg-01
+       bg-02
+       cl-01
+       cl-02
+       nm-01
+       nm-02
+       nm-03
+       nm-04
+       nm-05
+       nm-06
+     002
+     003
+     004
+     005
+...  
+     124
+
+
+i hope now you understand how my dataset is structured; 
+
+Now using the above information, help me implmenet the below:
+
+I need help building a model to identify people based on their walking style using gait analysis. I'II be using the CASIA-B dataset and MediaPipe Pose for skeletal data extraction using python, i am using visual studio code
+The steps include:
+Data Extraction: How to extract and preprocess the skeletal data from MediaPipe Pose
+Description: 
+Model: What type of model would work best for gait recognition? I need help with training and evaluaton, how i can use gaitgraph?
+Integration: How to use GaitGraph alongside MediaPipe Pose for gait analysis.
+Running on Laptop: Once the model is bulit, please guide me on how to run it locally on my laptop.
+Can you help me develop the full solution and later explain how to run it on my own machine?
+
+NOTE: It's recommended you write code in several.py files then call in one main file say main.py where i can run as "python main.py"
+
+my project files should be here: C:\Users\omusi\Downloads\KD\casia-b-project
